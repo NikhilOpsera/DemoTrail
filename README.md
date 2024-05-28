@@ -84,3 +84,6 @@ falling back to default profiles: default
 ## Misc
 
 Maven can be optimized to use local/remote repository to cache artifacts. https://hub.docker.com/_/maven
+
+
+Nice to try things out
